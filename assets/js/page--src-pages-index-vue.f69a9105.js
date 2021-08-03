@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"kmF/":function(t,n,e){"use strict";e.r(n);var l={},s=e("y6gh"),u=Object(s.a)(l,(function(){var t=this.$createElement,n=this._self._c||t;return n("layout",[n("div",[this._v("OK")])])}),[],!1,null,null,null);n.default=u.exports}}]);
