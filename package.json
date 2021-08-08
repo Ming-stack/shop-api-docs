@@ -1,0 +1,17 @@
+{
+  "name": "api-docs",
+  "private": true,
+  "scripts": {
+    "develop": "gridsome develop",
+    "explore": "gridsome explore",
+    "build": "gridsome build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@gridsome/transformer-remark": "^0.6.4",
+    "element-ui": "^2.15.4",
+    "gridsome": "^0.7.0",
+    "vue-hljs": "^2.0.0"
+  }
+}
